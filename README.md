@@ -27,10 +27,10 @@
  
  
 <h2 style="margin-top:20px">Quick Start</h2>
-<p>Fork the repository - https://github.com/abhishekrajput-web/react-fitness-path.git<p>
+<p>Fork the repository - https://github.com/abhishekrajput-web/react-fitness-path.git</p>
 
 
-<h2 style="color:white;margin-top:20px">Credit For Images And Favicon<h2>
+<h2 style="color:white;margin-top:20px">Credit For Images And Favicon</h2>
 
 <div>
 <li>hero image and products image - <b>pexels unsplash and pixabay</b></li>
